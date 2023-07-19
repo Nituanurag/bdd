@@ -17,6 +17,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class loginStep {
 	public WebDriver driver;
 
+	//fgffhgfhg
+
 	@Given("user is allready on login page")
 	public void user_is_allready_on_login_page() {
 		WebDriverManager.chromedriver().setup();
